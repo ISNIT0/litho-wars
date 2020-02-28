@@ -1,3 +1,5 @@
+import { quaternionToEuler } from './quaternion-to-euler';
+
 export class LithoHardware {
     constructor() {
         this.orientation = {
